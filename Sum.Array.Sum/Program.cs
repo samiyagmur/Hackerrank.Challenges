@@ -12,21 +12,43 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System;
 
+class Result
+{
 
+    /*
+     * Complete the 'aVeryBigSum' function below.
+     *
+     * The function is expected to return a LONG_INTEGER.
+     * The function accepts LONG_INTEGER_ARRAY ar as parameter.
+     */
+
+    public static long aVeryBigSum(List<long> ar)
+    {   long toplam=0;
+        
+        foreach(var say in ar)
+                toplam+= say;
+        
+        return toplam;
+        
+    }
+
+}
 
 class Solution
 {
     public static void Main(string[] args)
     {
-        int n = Convert.ToInt32(Console.ReadLine().Trim());
+        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-        List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
-        
-        arr.Reverse();
-        
-        foreach(var say in arr)
-            Console.Write(say+" ");
-        
-        
+        int arCount = Convert.ToInt32(Console.ReadLine().Trim());
+
+        List<long> ar = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arTemp => Convert.ToInt64(arTemp)).ToList();
+
+        long result = Result.aVeryBigSum(ar);
+
+        textWriter.WriteLine(result);
+
+        textWriter.Flush();
+        textWriter.Close();
     }
 }
