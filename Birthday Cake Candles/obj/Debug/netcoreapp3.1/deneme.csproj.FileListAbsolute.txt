@@ -1,0 +1,13 @@
+C:\Users\samiy\OneDrive\Masaüstü\deneme\obj\Debug\netcoreapp3.1\deneme.csprojAssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\deneme\obj\Debug\netcoreapp3.1\deneme.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\deneme\obj\Debug\netcoreapp3.1\deneme.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\deneme\obj\Debug\netcoreapp3.1\deneme.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\deneme\bin\Debug\netcoreapp3.1\deneme.exe
+C:\Users\samiy\OneDrive\Masaüstü\deneme\bin\Debug\netcoreapp3.1\deneme.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\deneme\bin\Debug\netcoreapp3.1\deneme.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\deneme\bin\Debug\netcoreapp3.1\deneme.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\deneme\bin\Debug\netcoreapp3.1\deneme.dll
+C:\Users\samiy\OneDrive\Masaüstü\deneme\bin\Debug\netcoreapp3.1\deneme.pdb
+C:\Users\samiy\OneDrive\Masaüstü\deneme\obj\Debug\netcoreapp3.1\deneme.dll
+C:\Users\samiy\OneDrive\Masaüstü\deneme\obj\Debug\netcoreapp3.1\deneme.pdb
+C:\Users\samiy\OneDrive\Masaüstü\deneme\obj\Debug\netcoreapp3.1\deneme.genruntimeconfig.cache
