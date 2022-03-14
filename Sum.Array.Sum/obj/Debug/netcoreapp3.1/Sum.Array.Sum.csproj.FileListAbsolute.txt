@@ -1,0 +1,13 @@
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\bin\Debug\netcoreapp3.1\Sum.Array.Sum.exe
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\bin\Debug\netcoreapp3.1\Sum.Array.Sum.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\bin\Debug\netcoreapp3.1\Sum.Array.Sum.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\bin\Debug\netcoreapp3.1\Sum.Array.Sum.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\bin\Debug\netcoreapp3.1\Sum.Array.Sum.dll
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\bin\Debug\netcoreapp3.1\Sum.Array.Sum.pdb
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\obj\Debug\netcoreapp3.1\Sum.Array.Sum.csprojAssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\obj\Debug\netcoreapp3.1\Sum.Array.Sum.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\obj\Debug\netcoreapp3.1\Sum.Array.Sum.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\obj\Debug\netcoreapp3.1\Sum.Array.Sum.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\obj\Debug\netcoreapp3.1\Sum.Array.Sum.dll
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\obj\Debug\netcoreapp3.1\Sum.Array.Sum.pdb
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Sum.Array.Sum\obj\Debug\netcoreapp3.1\Sum.Array.Sum.genruntimeconfig.cache
