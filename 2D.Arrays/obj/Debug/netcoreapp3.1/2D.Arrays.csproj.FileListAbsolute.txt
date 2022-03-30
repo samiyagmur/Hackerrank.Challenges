@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\bin\Debug\netcoreapp3.1\2D.Arrays.exe
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\bin\Debug\netcoreapp3.1\2D.Arrays.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\bin\Debug\netcoreapp3.1\2D.Arrays.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\bin\Debug\netcoreapp3.1\2D.Arrays.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\bin\Debug\netcoreapp3.1\2D.Arrays.dll
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\bin\Debug\netcoreapp3.1\2D.Arrays.pdb
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\obj\Debug\netcoreapp3.1\2D.Arrays.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\obj\Debug\netcoreapp3.1\2D.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\obj\Debug\netcoreapp3.1\2D.Arrays.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\obj\Debug\netcoreapp3.1\2D.Arrays.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\obj\Debug\netcoreapp3.1\2D.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\obj\Debug\netcoreapp3.1\2D.Arrays.dll
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\obj\Debug\netcoreapp3.1\2D.Arrays.pdb
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\2D.Arrays\obj\Debug\netcoreapp3.1\2D.Arrays.genruntimeconfig.cache
