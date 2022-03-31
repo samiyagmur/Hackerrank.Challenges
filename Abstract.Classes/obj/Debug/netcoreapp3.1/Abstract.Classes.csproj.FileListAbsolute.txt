@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\bin\Debug\netcoreapp3.1\Abstract.Classes.exe
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\bin\Debug\netcoreapp3.1\Abstract.Classes.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\bin\Debug\netcoreapp3.1\Abstract.Classes.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\bin\Debug\netcoreapp3.1\Abstract.Classes.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\bin\Debug\netcoreapp3.1\Abstract.Classes.dll
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\bin\Debug\netcoreapp3.1\Abstract.Classes.pdb
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\obj\Debug\netcoreapp3.1\Abstract.Classes.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\obj\Debug\netcoreapp3.1\Abstract.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\obj\Debug\netcoreapp3.1\Abstract.Classes.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\obj\Debug\netcoreapp3.1\Abstract.Classes.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\obj\Debug\netcoreapp3.1\Abstract.Classes.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\obj\Debug\netcoreapp3.1\Abstract.Classes.dll
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\obj\Debug\netcoreapp3.1\Abstract.Classes.pdb
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Abstract.Classes\obj\Debug\netcoreapp3.1\Abstract.Classes.genruntimeconfig.cache
