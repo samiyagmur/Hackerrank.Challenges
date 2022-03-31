@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\bin\Debug\netcoreapp3.1\Scope.exe
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\bin\Debug\netcoreapp3.1\Scope.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\bin\Debug\netcoreapp3.1\Scope.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\bin\Debug\netcoreapp3.1\Scope.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\bin\Debug\netcoreapp3.1\Scope.dll
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\bin\Debug\netcoreapp3.1\Scope.pdb
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\obj\Debug\netcoreapp3.1\Scope.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\obj\Debug\netcoreapp3.1\Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\obj\Debug\netcoreapp3.1\Scope.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\obj\Debug\netcoreapp3.1\Scope.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\obj\Debug\netcoreapp3.1\Scope.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\obj\Debug\netcoreapp3.1\Scope.dll
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\obj\Debug\netcoreapp3.1\Scope.pdb
+C:\Users\samiy\OneDrive\Masaüstü\hackerrank.com.challenges\Scope\obj\Debug\netcoreapp3.1\Scope.genruntimeconfig.cache
