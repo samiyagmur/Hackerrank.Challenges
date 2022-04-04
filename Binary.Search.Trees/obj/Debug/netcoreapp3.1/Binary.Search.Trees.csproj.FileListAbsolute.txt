@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\bin\Debug\netcoreapp3.1\Binary.Search.Trees.exe
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\bin\Debug\netcoreapp3.1\Binary.Search.Trees.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\bin\Debug\netcoreapp3.1\Binary.Search.Trees.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\bin\Debug\netcoreapp3.1\Binary.Search.Trees.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\bin\Debug\netcoreapp3.1\Binary.Search.Trees.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\bin\Debug\netcoreapp3.1\Binary.Search.Trees.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\obj\Debug\netcoreapp3.1\Binary.Search.Trees.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\obj\Debug\netcoreapp3.1\Binary.Search.Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\obj\Debug\netcoreapp3.1\Binary.Search.Trees.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\obj\Debug\netcoreapp3.1\Binary.Search.Trees.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\obj\Debug\netcoreapp3.1\Binary.Search.Trees.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\obj\Debug\netcoreapp3.1\Binary.Search.Trees.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\obj\Debug\netcoreapp3.1\Binary.Search.Trees.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Binary.Search.Trees\obj\Debug\netcoreapp3.1\Binary.Search.Trees.genruntimeconfig.cache
