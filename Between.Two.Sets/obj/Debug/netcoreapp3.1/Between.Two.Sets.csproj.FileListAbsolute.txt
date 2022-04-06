@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\bin\Debug\netcoreapp3.1\Between.Two.Sets.exe
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\bin\Debug\netcoreapp3.1\Between.Two.Sets.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\bin\Debug\netcoreapp3.1\Between.Two.Sets.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\bin\Debug\netcoreapp3.1\Between.Two.Sets.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\bin\Debug\netcoreapp3.1\Between.Two.Sets.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\bin\Debug\netcoreapp3.1\Between.Two.Sets.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\obj\Debug\netcoreapp3.1\Between.Two.Sets.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\obj\Debug\netcoreapp3.1\Between.Two.Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\obj\Debug\netcoreapp3.1\Between.Two.Sets.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\obj\Debug\netcoreapp3.1\Between.Two.Sets.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\obj\Debug\netcoreapp3.1\Between.Two.Sets.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\obj\Debug\netcoreapp3.1\Between.Two.Sets.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\obj\Debug\netcoreapp3.1\Between.Two.Sets.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Between.Two.Sets\obj\Debug\netcoreapp3.1\Between.Two.Sets.genruntimeconfig.cache

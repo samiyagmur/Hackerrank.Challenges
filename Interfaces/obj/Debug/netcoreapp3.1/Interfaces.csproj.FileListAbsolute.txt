@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

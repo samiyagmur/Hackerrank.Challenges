@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\bin\Debug\netcoreapp3.1\More.Linked.Lists.exe
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\bin\Debug\netcoreapp3.1\More.Linked.Lists.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\bin\Debug\netcoreapp3.1\More.Linked.Lists.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\bin\Debug\netcoreapp3.1\More.Linked.Lists.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\bin\Debug\netcoreapp3.1\More.Linked.Lists.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\bin\Debug\netcoreapp3.1\More.Linked.Lists.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\obj\Debug\netcoreapp3.1\More.Linked.Lists.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\obj\Debug\netcoreapp3.1\More.Linked.Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\obj\Debug\netcoreapp3.1\More.Linked.Lists.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\obj\Debug\netcoreapp3.1\More.Linked.Lists.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\obj\Debug\netcoreapp3.1\More.Linked.Lists.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\obj\Debug\netcoreapp3.1\More.Linked.Lists.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\obj\Debug\netcoreapp3.1\More.Linked.Lists.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\More.Linked.Lists\obj\Debug\netcoreapp3.1\More.Linked.Lists.genruntimeconfig.cache

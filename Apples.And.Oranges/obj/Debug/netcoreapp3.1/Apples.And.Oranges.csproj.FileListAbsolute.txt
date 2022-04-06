@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\bin\Debug\netcoreapp3.1\Apples.And.Oranges.exe
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\bin\Debug\netcoreapp3.1\Apples.And.Oranges.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\bin\Debug\netcoreapp3.1\Apples.And.Oranges.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\bin\Debug\netcoreapp3.1\Apples.And.Oranges.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\bin\Debug\netcoreapp3.1\Apples.And.Oranges.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\bin\Debug\netcoreapp3.1\Apples.And.Oranges.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\obj\Debug\netcoreapp3.1\Apples.And.Oranges.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\obj\Debug\netcoreapp3.1\Apples.And.Oranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\obj\Debug\netcoreapp3.1\Apples.And.Oranges.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\obj\Debug\netcoreapp3.1\Apples.And.Oranges.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\obj\Debug\netcoreapp3.1\Apples.And.Oranges.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\obj\Debug\netcoreapp3.1\Apples.And.Oranges.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\obj\Debug\netcoreapp3.1\Apples.And.Oranges.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Apples.And.Oranges\obj\Debug\netcoreapp3.1\Apples.And.Oranges.genruntimeconfig.cache

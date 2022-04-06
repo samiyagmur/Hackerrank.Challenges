@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Between.Two.Sets/1.0.0": {
+        "runtime": {
+          "Between.Two.Sets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Between.Two.Sets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
