@@ -14,8 +14,7 @@ using System;
 
 namespace Between.Two.Sets
 {
-    internal class Program
-    {
+    
         class Result
         {
 
@@ -35,7 +34,8 @@ namespace Between.Two.Sets
                 
                 List<int> result = new List<int>();
                 List<int> result1 = new List<int>();
-
+                List<int> result2 = new List<int>();
+                
                 int count = 0;
                 int count1 = 0;
                 for (; i <=j; i++)
@@ -52,32 +52,32 @@ namespace Between.Two.Sets
                             }
                         }
                     }
-                   
+                    count = 0;
                 }
-                bool durum=b.Count < result
 
-                for (int f = 0; f < b.Count; f++)
+                
+                for (int d = 0; d < result.Count; d++)
                 {
-                    for (int d = 0; d < result.Count; d++)
+                    
+                    for (int f = 0; f < b.Count; f++)
                     {
                         if ((b[f] % result[d]) == 0)
                         {
                             count1++;
-                            if (b.Count == count1  )
-                            {
-                                result1.Add(f);
+
+                            if (b.Count==count1)
+                            {   
+                                result1.Add(result[d]);
                                 count1 = 0;
                             }
                         }
-                        
                     }
-                    
-                    
+                    count1 = 0;
+
                 }
-
-
                 return result1.Count;
             }
+            
 
         }
 
@@ -105,5 +105,5 @@ namespace Between.Two.Sets
                 //textWriter.Close();
             }
         }
-    }
+    
 }
