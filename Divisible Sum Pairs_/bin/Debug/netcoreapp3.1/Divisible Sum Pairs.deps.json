@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Divisible Sum Pairs/1.0.0": {
+        "runtime": {
+          "Divisible Sum Pairs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Divisible Sum Pairs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

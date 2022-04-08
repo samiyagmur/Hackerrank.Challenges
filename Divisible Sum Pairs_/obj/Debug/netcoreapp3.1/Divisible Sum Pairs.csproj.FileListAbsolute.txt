@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.exe
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\bin\Debug\netcoreapp3.1\Divisible Sum Pairs.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Divisible Sum Pairs\obj\Debug\netcoreapp3.1\Divisible Sum Pairs.genruntimeconfig.cache

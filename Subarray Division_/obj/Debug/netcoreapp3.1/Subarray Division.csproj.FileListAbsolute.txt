@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\bin\Debug\netcoreapp3.1\Subarray Division.exe
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\bin\Debug\netcoreapp3.1\Subarray Division.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\bin\Debug\netcoreapp3.1\Subarray Division.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\bin\Debug\netcoreapp3.1\Subarray Division.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\bin\Debug\netcoreapp3.1\Subarray Division.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\bin\Debug\netcoreapp3.1\Subarray Division.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\obj\Debug\netcoreapp3.1\Subarray Division.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\obj\Debug\netcoreapp3.1\Subarray Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\obj\Debug\netcoreapp3.1\Subarray Division.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\obj\Debug\netcoreapp3.1\Subarray Division.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\obj\Debug\netcoreapp3.1\Subarray Division.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\obj\Debug\netcoreapp3.1\Subarray Division.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\obj\Debug\netcoreapp3.1\Subarray Division.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\Subarray Division\obj\Debug\netcoreapp3.1\Subarray Division.genruntimeconfig.cache
