@@ -31,7 +31,7 @@ namespace Bill.Division
         {
             bill.RemoveAt(k);
             int cost = 0;
-            int annaPayment;
+            
             int brainPayment;
             for (int i = 0; i < bill.Count; i++)
             {
