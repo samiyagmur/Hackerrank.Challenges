@@ -17,48 +17,44 @@ namespace Sales.by.Match
     class Result
     {
 
-        /*
-         * Complete the 'sockMerchant' function below.
-         *
-         * The function is expected to return an INTEGER.
-         * The function accepts following parameters:
-         *  1. INTEGER n
-         *  2. INTEGER_ARRAY ar
-         */
+        
 
         public static int sockMerchant(int n, List<int> ar)
         {
-            ar.Sort();//10 20 20 10 10 30 50 10 20
-            int equlty = 0;
-            int pairSockOnlyEven = 0;
-            int pairSockOnlyOdd = 0;
-            List<int> list = new List<int>();
+            List<int> listOfDistinct = ar.Distinct().ToList();//10 20 30 50
+            List<int> temporaryList = new List<int>();//first loop=10 10 10 10,SecondLoop=20 20 20,Third loop= 30,Forty loop= 50
+            List<int> conditionList = new List<int>();//4 3 1 1
+            int count = 0;
+            
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < listOfDistinct.Count; i++)
             {
-                int getListValueSequentially = ar[i];//10 10 10 10 20 20 20 30 50
-                int getCountEveryValueOnList = (int)ar.LongCount(x => x == getListValueSequentially);//4 3 1 1
-                list.Add(getCountEveryValueOnList);// 4 3 1 1
-                list = list.Distinct().ToList();// 4 3 1
+                temporaryList = ar.FindAll(x => x == listOfDistinct[i]);//We are find same value and set to list all.For Exammple:List:10 10 10 10
+                conditionList.Add(temporaryList.Count);//We are add tempList count other list. 
+                temporaryList.Clear();//We are clear temporary list for next loop.
             }
-            for (int i = 0; i < list.Count; i++)
+
+
+            for (int i = 0; i < conditionList.Count; i++)
             {
-                if (list[i] != 1)//1
+
+                if (conditionList[i] != 1)
                 {
-                    if (list[i] % 2 == 0)//4
+                    if (conditionList[i] % 2 == 0)
                     {
-                        pairSockOnlyEven = list[i] / 2;//we search how many pair in 4
+                        count += (conditionList[i] / 2);//We are Divide 2 becouse of pair socks.We are counting pair socks.
                     }
-                    else if (list[i] % 2 == 1)//3
+                    else
                     {
-                        list[i] -= 1;//3-1=2
-                        pairSockOnlyOdd = list[i] / 2;//we search how many pair in 2
-                        
+                        count += ((conditionList[i] - 1) / 2);
                     }
+
+                }
+                else
+                {
                 }
             }
-
-            return (pairSockOnlyEven + pairSockOnlyOdd);
+            return count;//At last we return count.
 
         }
 
@@ -68,7 +64,7 @@ namespace Sales.by.Match
     {
         public static void Main(string[] args)
         {
-            TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+            //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
             int n = Convert.ToInt32(Console.ReadLine().Trim());
 
@@ -76,10 +72,10 @@ namespace Sales.by.Match
 
             int result = Result.sockMerchant(n, ar);
 
-            textWriter.WriteLine(result);
+            Console.WriteLine(result);
 
-            textWriter.Flush();
-            textWriter.Close();
+            //textWriter.Flush();
+            //textWriter.Close();
         }
     }
 }
