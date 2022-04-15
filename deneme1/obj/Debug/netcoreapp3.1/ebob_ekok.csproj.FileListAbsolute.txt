@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\bin\Debug\netcoreapp3.1\ebob_ekok.exe
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\bin\Debug\netcoreapp3.1\ebob_ekok.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\bin\Debug\netcoreapp3.1\ebob_ekok.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\bin\Debug\netcoreapp3.1\ebob_ekok.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\bin\Debug\netcoreapp3.1\ebob_ekok.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\bin\Debug\netcoreapp3.1\ebob_ekok.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\obj\Debug\netcoreapp3.1\ebob_ekok.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\obj\Debug\netcoreapp3.1\ebob_ekok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\obj\Debug\netcoreapp3.1\ebob_ekok.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\obj\Debug\netcoreapp3.1\ebob_ekok.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\obj\Debug\netcoreapp3.1\ebob_ekok.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\obj\Debug\netcoreapp3.1\ebob_ekok.dll
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\obj\Debug\netcoreapp3.1\ebob_ekok.pdb
+C:\Users\samiy\OneDrive\Masaüstü\class\Hackerrank.com.challenges\deneme1\obj\Debug\netcoreapp3.1\ebob_ekok.genruntimeconfig.cache
